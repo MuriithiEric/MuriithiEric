@@ -4,6 +4,5 @@
 - 🌱 Building apps with flutter, but can do almost anything with JS. ;)
 - 💬 Ask me about dart with flutter, javascript, and firebase.
 - 📫 Reach me on my email @emuriithi42@gmail.com or my twitter.
-- ⚡ Muray Innovations to the world. 😄
 
 
